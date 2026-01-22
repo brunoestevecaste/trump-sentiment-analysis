@@ -1,0 +1,25 @@
+# --- Archivos de Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Entornos Virtuales ---
+venv/
+env/
+.env
+
+# --- Jupyter Notebooks checkpoints ---
+.ipynb_checkpoints
+
+# --- IDEs (Configuraciones de tu editor de texto) ---
+.vscode/
+.idea/
+
+# --- Datos ---
+# Si tus Excel son pequeños y quieres compartirlos, pon un # delante de la siguiente línea.
+# Si son muy pesados (+100MB) o privados, deja la línea como está:
+# data/
+
+# --- Logs y archivos de sistema ---
+*.log
+.DS_Store
