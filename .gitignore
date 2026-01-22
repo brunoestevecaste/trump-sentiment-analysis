@@ -15,7 +15,6 @@ env/
 .vscode/
 .idea/
 
-
 # --- Logs y archivos de sistema ---
 *.log
 .DS_Store
