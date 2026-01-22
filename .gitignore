@@ -15,10 +15,6 @@ env/
 .vscode/
 .idea/
 
-# --- Datos ---
-# Si tus Excel son pequeños y quieres compartirlos, pon un # delante de la siguiente línea.
-# Si son muy pesados (+100MB) o privados, deja la línea como está:
-# data/
 
 # --- Logs y archivos de sistema ---
 *.log
